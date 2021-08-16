@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "oninoni/startrek/beam_phaser.vtf"
+	"$translucent" "1"
+    "$nocull" "1"
+    "$alpha" "0.5"
+
+    "$basetexturetransform" "center .5 .5 scale 1 1 rotate 90 translate 0 0""
+}
