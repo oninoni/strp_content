@@ -1,0 +1,1 @@
+strp_content
