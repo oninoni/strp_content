@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$decal" 1
+	"$basetexture" "Decals/scorch1"
+	"$decalscale" 0.1
+	"$modelmaterial" "decals/oninoni/smallscorchmodel"
+}
