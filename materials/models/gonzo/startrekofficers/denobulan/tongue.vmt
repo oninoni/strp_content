@@ -1,0 +1,8 @@
+"Teeth"
+{
+	"$baseTexture" "models\gonzo\startrekofficers\denobulan\tongue"
+	"$clientshader" "MouthShader"
+	"$model" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+}

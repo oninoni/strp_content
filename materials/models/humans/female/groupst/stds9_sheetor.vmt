@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/female/GroupST/DS9_orion"
+	"$halflambert" 1
+	"$bumpmap" "models/Humans/female/GroupST/DS9_female_n"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+//	"$phongexponenttexture" "officer/spec/imperial_sheet_cmb_specmaj_exp"
+	"$phongalbedotint" "1"
+}

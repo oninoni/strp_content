@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\bloocobalt\startrek\vulcan\vulca_young"
+//                "$bumpmap" "models\bloocobalt\startrek\vulcan\vulca_cylmap_n"
+	"$halflambert" 1
+}

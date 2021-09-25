@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/Male/GroupST/DS9_gold_gold"
+	"$bumpmap" "models/Humans/Male/GroupST/DS9_male_n"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+//	"$phongexponenttexture" "officer/spec/imperial_sheet_cmb_specmaj_exp"
+	"$phongalbedotint" "1"
+}

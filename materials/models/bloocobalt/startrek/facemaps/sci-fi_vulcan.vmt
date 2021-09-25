@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$baseTexture" "models\bloocobalt\startrek\vulcan\vulcan_scifi"
+                "$bumpmap" "models\bloocobalt\startrek\vulcan\vulcan_scifi_n"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/Female/GroupST/bajoran_cylmap"
+	"$bumpmap" "models/Humans/Female/GroupST/bajoran_cylmap_n"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+}

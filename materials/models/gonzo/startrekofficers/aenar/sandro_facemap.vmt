@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gonzo\startrekofficers\aenar\sandro_facemap"
+                "$bumpmap"     "models\gonzo\startrekofficers\andorian\sandro_facemap_n"
+                "$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+	"$nocull" 1
+}

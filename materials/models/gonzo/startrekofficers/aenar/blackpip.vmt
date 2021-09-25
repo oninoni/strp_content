@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\gonzo\startrekofficers\vulcan\blackpip"
+	"$phongexponent"	"5"
+	"$phong" "1"
+	"$phongexponenttexture" "models\gonzo\startrekofficers\vulcan\pipphong"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0 0.5 1]"
+}

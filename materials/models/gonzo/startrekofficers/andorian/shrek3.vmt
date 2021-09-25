@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\gonzo\startrekofficers\andorian/shrek3"
+	"$bumpmap" "models\gonzo\startrekofficers\andorian/shrek3_normal"
+	
+	"$halflambert" "1"
+}

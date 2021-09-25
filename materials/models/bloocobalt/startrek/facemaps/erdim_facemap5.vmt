@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\startrek\facemaps\erdim_bajoran"
+                "$bumpmap"     "models\bloocobalt\startrek\facemaps\erdim_bajoran_n"
+                "$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+	"$nocull" 1
+
+}

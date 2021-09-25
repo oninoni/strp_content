@@ -1,0 +1,10 @@
+"Teeth"
+{
+	"$baseTexture" "models\gonzo\startrekofficers\denobulan/teethlower"
+	"$bumpmap" "models\gonzo\startrekofficers\denobulan/teethlower_normal"
+	"$clientshader" "MouthShader"
+	"$alphatest" 1
+	"$model" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+}

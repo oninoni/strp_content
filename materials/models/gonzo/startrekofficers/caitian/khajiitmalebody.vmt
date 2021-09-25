@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\gonzo\startrekofficers\caitian/khajiitmalebody"
+	"$bumpmap" "models\gonzo\startrekofficers\caitian/khajiitmalebody_n"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost" "0.4"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 3 10]"
+
+	"$detail" "models\gonzo\startrekofficers\caitian/detail_fur"
+	"$detailscale" "7"
+	"$detailblendfactor" "1.2"
+	"$detailblendmode" "0"
+}
